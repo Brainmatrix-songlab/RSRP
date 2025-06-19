@@ -1,0 +1,24 @@
+launch:
+  # programs every GPU
+  runs_per_device: 1
+  # seeds per run
+  seed_per_exp: 1
+
+  # cold start period (per process)
+  cold_start_seconds: 3
+
+  filename: recurrent_pg.recurrent_pg
+  method: main
+
+experiment_sets:
+  # DNN LSTM
+  "LSTM":
+    policy: LSTM
+    policy_conf:
+      hidden_dims: 128
+
+    train_conf:
+      max_iteration: 1100000
+tasks:
+  # Humanoid tasks
+  - task: humanoid
