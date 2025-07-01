@@ -1,6 +1,4 @@
-这个是用于产出RSRP中stdp方法训练MNIST的图片的库。非常的古老，依赖早就已经不维护了，用很稀有的方法还能勉强装上老版本的库，然后debug之后在我电脑上能跑了，直接运行python DiehlCook_spiking_MNIST.py
-下面是官方原文档的readme：https://github.com/peter-u-diehl/stdp-mnist
-
+readme：https://github.com/peter-u-diehl/stdp-mnist
 
 This is the code for the paper "Unsupervised learning of digit recognition using spike-timing-dependent plasticity" available at http://journal.frontiersin.org/article/10.3389/fncom.2015.00099/abstract#
 
