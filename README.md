@@ -135,12 +135,12 @@ python DiehlCook_spiking_MNIST.py
 ```
 + RSRP: Figure 6 and Figure 7 in Folder RSRP_multiGPU
 ```
-python ec_mnist.py
+python rsrp_mnist.py
 ```
 #### CIFAR task 
 + RSRP: Figure 6 and Figure 7 in Folder RSRP_multiGPU
 ```
-python ec_cifar.py
+python rsrp_cifar.py
 ```
 
 ## 📅 Citation
