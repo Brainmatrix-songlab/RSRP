@@ -38,29 +38,29 @@ pip install -r requirements.txt
 ## 🚀 Usage Instructions
 ### 🧠 Reinforcement Learning Tasks
 #### Cartpole task
-+ RSRP: Figure 2A (1) in Folder Cartpole-main/EvolvingConnectivity-master
++ RSRP: Figure 2A (1) in Folder Cartpole-main/RSRP
 
 Single run
 ```
-python ec_cartpole.py
+python rsrp_cartpole.py
 ```
 Multiple runs
 ```
-python ec_cartpole.py sweep
+python rsrp_cartpole.py sweep
 ```
 
-+ RSRP-Reservior: Figure 2A (2) in Folder Cartpole-main/EvolvingConnectivity-master      
++ RSRP-Reservior: Figure 2A (2) in Folder Cartpole-main/RSRP     
 
 Single run
 ```
-python ec_resevior.py
+python rsrp_resevior.py
 ```
 Multiple runs
 ```
-python ec_resevior.py sweep
+python rsrp_resevior.py sweep
 ```
 
-+ ES: Figure 2A (3) in Folder Cartpole-main/EvolvingConnectivity-master   
++ ES: Figure 2A (3) in Folder Cartpole-main/RSRP
 
 Single run
 ```
@@ -71,7 +71,7 @@ Multiple runs
 python es_cartpole.py sweep
 ```
 
-+ PPO-LSTM: Figure 2A (4) in Folder Cartpole-main/EvolvingConnectivity-master   
++ PPO-LSTM: Figure 2A (4) in Folder Cartpole-main/RSRP
 
 Single run
 ```
