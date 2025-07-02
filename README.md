@@ -93,22 +93,22 @@ python neurosim/sim.py run
 
 Single run
 ```
-python RSRP_sweep.py
+python rsrp_sweep.py
 ```
 Multiple runs
 ```
-python RSRP_sweep.py sweep
+python rsrp_sweep.py sweep
 ```
 
 + RSRP-Reservior: Figure 2B (2) in Folder RSRP_singleGPU
 
 Single run
 ```
-python RSRP_frozen_recurrent.py
+python rsrp_frozen_recurrent.py
 ```
 Multiple runs
 ```
-python RSRP_sweep.py sweep
+python rsrp_sweep.py sweep
 ```
 
 + ES: Figure 2B (3) in Folder RSRP_singleGPU
