@@ -115,11 +115,11 @@ python rsrp_sweep.py sweep
 
 Single run
 ```
-python ES_sweep.py
+python es_sweep.py
 ```
 Multiple runs
 ```
-python ES_sweep.py sweep
+python es_sweep.py sweep
 ```
 
 + PPO-LSTM: Figure 2B (4) and Figure 3 red curve in Folder PPO-brax
