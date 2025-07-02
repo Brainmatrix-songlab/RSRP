@@ -53,11 +53,11 @@ python rsrp_cartpole.py sweep
 
 Single run
 ```
-python rsrp_resevior.py
+python rsrp_cartpole_resevior.py
 ```
 Multiple runs
 ```
-python rsrp_resevior.py sweep
+python rsrp_cartpole_resevior.py sweep
 ```
 
 + ES: Figure 2A (3) in Folder Cartpole-main/RSRP
@@ -71,7 +71,7 @@ Multiple runs
 python es_cartpole.py sweep
 ```
 
-+ PPO-LSTM: Figure 2A (4) in Folder Cartpole-main/RSRP
++ PPO-LSTM: Figure 2A (4) in PPO-brax
 
 Single run
 ```
