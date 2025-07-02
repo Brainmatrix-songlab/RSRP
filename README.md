@@ -13,7 +13,7 @@ This repository provides the implementation of RSRP, a biologically inspired syn
 ```
 .
 ├── Cartpole-main/
-│   ├── RSRP/   # CartPole tasks (RSRP, ES, PPO-LSTM)
+│   ├── RSRP/                          # CartPole tasks (RSRP, ES, PPO-LSTM)
 │   └── Netpyne-STDP-master/           # CartPole task using R-STDP
 ├── RSRP_singleGPU/                    # Humanoid tasks with RSRP and ES
 ├── RSRP_multiGPU/                     # Classification tasks (MNIST, CIFAR)
