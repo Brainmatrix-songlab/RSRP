@@ -146,7 +146,7 @@ python rsrp_cifar.py
 ## 📅 Citation
 If you find this codebase or our method useful in your research, please consider citing:
 ```
-
+Sun Y, Liao W, Li J, et al. Reward-Optimizing Learning using Stochastic Release Plasticity[J]. Frontiers in Neural Circuits, 19: 1618506.
 ```
 
 ## 📩 Contact
